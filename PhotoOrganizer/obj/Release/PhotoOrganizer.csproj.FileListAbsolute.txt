@@ -1,0 +1,13 @@
+F:\Code\Projects\PhotoOrganizer\PhotoOrganizer\bin\Release\PhotoOrganizer.exe.config
+F:\Code\Projects\PhotoOrganizer\PhotoOrganizer\bin\Release\PhotoOrganizer.exe.manifest
+F:\Code\Projects\PhotoOrganizer\PhotoOrganizer\bin\Release\PhotoOrganizer.application
+F:\Code\Projects\PhotoOrganizer\PhotoOrganizer\bin\Release\PhotoOrganizer.exe
+F:\Code\Projects\PhotoOrganizer\PhotoOrganizer\bin\Release\PhotoOrganizer.pdb
+F:\Code\Projects\PhotoOrganizer\PhotoOrganizer\obj\Release\PhotoOrganizer.csprojResolveAssemblyReference.cache
+F:\Code\Projects\PhotoOrganizer\PhotoOrganizer\obj\Release\PhotoOrganizer.PhotoOrganizer.resources
+F:\Code\Projects\PhotoOrganizer\PhotoOrganizer\obj\Release\PhotoOrganizer.Properties.Resources.resources
+F:\Code\Projects\PhotoOrganizer\PhotoOrganizer\obj\Release\PhotoOrganizer.csproj.GenerateResource.Cache
+F:\Code\Projects\PhotoOrganizer\PhotoOrganizer\obj\Release\PhotoOrganizer.exe.manifest
+F:\Code\Projects\PhotoOrganizer\PhotoOrganizer\obj\Release\PhotoOrganizer.application
+F:\Code\Projects\PhotoOrganizer\PhotoOrganizer\obj\Release\PhotoOrganizer.exe
+F:\Code\Projects\PhotoOrganizer\PhotoOrganizer\obj\Release\PhotoOrganizer.pdb
